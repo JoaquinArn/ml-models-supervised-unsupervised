@@ -41,3 +41,8 @@ Each notebook includes clear visualizations to support understanding of the mode
 
 This repository was built to demonstrate core machine learning techniques as part of my academic training in Data Science at Universidad de Buenos Aires, and to support my goal of pursuing a career in top-tier companies.
 
+## 🔗 Related Project  
+For a complete, end-to-end machine learning case study, check out my separate repository analyzing the Fashion MNIST dataset. It includes detailed exploratory data analysis, binary and multiclass classification models, and an accompanying technical report.
+
+👉 [fashion-mnist-classification-pipeline](https://github.com/JoaquinArn/fashion-mnist-classification-pipeline)
+
